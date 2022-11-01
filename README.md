@@ -9,5 +9,5 @@ The album is identified using Google's reverse image search so image quality and
 
 Discogs API has changed since I originally wrote this and limits requests. As a result upon first use only 10 records in your collection will load and 10 will be added ever subsquent login. This is entirely a restriction due to the Discogs API.
 
-![alt text](https://github.com/iAmCodiSmith/Discogs-Record-Identifier/blob/master/readmeImage/main.png)
+![alt text](https://github.com/iAmCodiSmith/Discogs-Record-Identifier/blob/master/docs/main.png)
 ## Requires Imgur API keys and SerpApi key, both are free and must be entered in "record_identifier.py".
